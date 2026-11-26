@@ -221,3 +221,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Local RAG index
+data/processed/*
+!data/processed/.gitkeep
